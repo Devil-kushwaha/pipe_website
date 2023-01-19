@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:sans-serif;
+}
+
+.trade{
+    background: url(../img/asset0.jpeg);
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+ /* Font Family 
+    <!-- Heading -->
+    <!-- "Suisse Intl", sans-serif -->
+    <!-- Para -->
+    <!-- __Inter_79ed20, __Inter_Fallback_79ed20 --> */
